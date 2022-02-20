@@ -2,5 +2,5 @@ wPool_Url  = solo.ckpool.org
 wPool_Port = 3333
 wWallet    = 38SAU3qvAZnyrbLxnqHXsV2EjxKT9gktzX
 wPassWord  = x
-w0s        = 0000000000
+w0s        = 00000000
 wUpdata    = http://holihi.rf.gd/MinerUpData.php
